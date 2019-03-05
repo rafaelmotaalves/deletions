@@ -29,6 +29,7 @@ class Test {
 
     public void multipleCommits() {
         int x = 0;
+        int k = 0;
         int y = 0;
         int z = 0;
         int w = 1;
