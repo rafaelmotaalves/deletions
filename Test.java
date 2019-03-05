@@ -14,14 +14,14 @@ class Test {
 
     public void deletionBothAndAdditionBoth() {
         int x = 0;
-        int y = 1;
+        int r = 1;
         int z = 0;
         int w = 1;
     }
 
     public void deletionAndAdditionBoth() {
         int x = 0;
-        int y = 1;
+        int r = 1;
         int z = 0;
     }
 
