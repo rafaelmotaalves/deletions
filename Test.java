@@ -17,12 +17,14 @@ class Test {
         int r = 1;
         int z = 0;
         int w = 1;
+        int r = 0;
     }
 
     public void deletionAndAdditionBoth() {
         int x = 0;
         int r = 1;
         int z = 0;
+        int r = 0;
     }
 
 }
